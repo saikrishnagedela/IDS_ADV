@@ -20,9 +20,3 @@ This project is an AI-powered Intrusion Detection System that classifies network
 ## 📊 Dataset
 - NSL-KDD Dataset
 
-## ⚙️ How to Run
-
-### 1. Clone repository
-```bash
-git clone <your-repo-link>
-cd IDS_Advanced
